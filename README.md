@@ -4,4 +4,5 @@ Gets the total language statistics of the inputted user via a token and displays
 
 # Requirements
 
+Install from here or run the installRequirements.sh script:
 https://github.com/PyGithub/PyGithub
