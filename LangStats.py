@@ -31,3 +31,4 @@ for language in language_stats:
 
 # Print the language statistics as percentages
 print(language_stats)
+input("Press enter to exit")
